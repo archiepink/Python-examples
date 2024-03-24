@@ -1,18 +1,22 @@
 # The List 'menu' contains elements from a cafe menu.
-menu = ["Coffee", "Tea", "Cake", "Biscuit"]
+menu = ["Coffee", "Tea", "Cake", "Biscuit", "Coke", "Sprite"]
 
 # The dictionary 'stock' defines the number of units of each element in 'menu'.
 stock = {'Coffee': 20,
          'Tea': 15,
          'Cake': 20,
-         'Biscuit': 100 
+         'Biscuit': 100,
+         'Coke': 200,
+         'Sprite': 150
         }
 
 # The dictionary 'price' defines the price of elements in 'menu'.
 price = {'Coffee': 3.50,
          'Tea': 1.50,
          'Cake': 4.50,
-         'Biscuit': 1.50
+         'Biscuit': 1.50,
+         'Coke': 1.20,
+         'Sprite':1.15
         }
 
 # Create a variable to store the total value of all elements in 'menu'
