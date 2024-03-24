@@ -1,3 +1,5 @@
+print("Hello and welcome to Imaginary Cafe! Here is a list of our current stock: "
+
 # The List 'menu' contains elements from a cafe menu.
 menu = ["Coffee", "Tea", "Cake", "Biscuit", "Coke", "Sprite"]
 
